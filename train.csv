@@ -1,0 +1,15 @@
+weather,temp,humidity,wind,play football
+sunny,hot,high,weak,no
+sunny,hot,high,strong,no
+cloudy,hot,high,weak,yes
+rain,mild,high,weak,yes
+rain,cool,normal,weak,yes
+rain,cool,normal,strong,no
+cloudy,cool,normal,strong,yes
+sunny,mild,high,weak,no
+sunny,cool,normal,weak,yes
+rain,mild,normal,weak,yes
+sunny,mild,normal,strong,yes
+cloudy,mild,high,strong,yes
+cloudy,hot,normal,weak,yes
+rain,mild,high,strong,no
